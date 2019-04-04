@@ -1,9 +1,10 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "9LJP66Z479.com.instatfootball.sc",
-            "paths": ["*"]
-        }]
+  "applinks": {
+    "apps": [],
+    "details": {
+      "9LJP66Z479.com.instatfootball.sc": {
+        "paths":[ "*" ]
+      }
     }
+  }
 }
