@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "9LJP66Z479.com.instatfootball.sc",
-            "paths": ["/tk/*"]
+            "paths": ["UniversalLinkTesting/*"]
         }]
     }
 }
