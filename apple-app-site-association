@@ -3,7 +3,7 @@
     "apps": [],
     "details": {
       "9LJP66Z479.com.instatfootball.sc": {
-        "paths":[ "*" ]
+        "paths":[ "/video/*" ]
       }
     }
   }
